@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola! 
+## Soy Guido Gabriel Rojas 🐱‍👤
 
-<!--
-**GROVE4L/GROVE4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱‍💻 Analista Programador Universitario
 
-Here are some ideas to get you started:
+💻 Programando desde **2009**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Primer Lenguaje: **Pawno**
+
+💼 Primer proyecto 
+* Aplicacion Java Gestion de bebidas Alcohólicas 
+* **Cliente**: ToPin
+
+🎉***Siempre aprendiendo algo nuevo*** 🥈
