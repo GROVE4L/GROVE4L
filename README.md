@@ -8,7 +8,7 @@
 📚 Primer Lenguaje: **Pawno**
 
 💼 Primer proyecto 
-* Aplicacion Java Gestion de bebidas Alcohólicas 
+* Aplicación Java Gestión de bebidas Alcohólicas 
 * **Cliente**: ToPin
 
 🎉***Siempre aprendiendo algo nuevo*** 🥈
